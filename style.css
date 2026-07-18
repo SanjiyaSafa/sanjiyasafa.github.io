@@ -50,12 +50,12 @@ padding:70px 20px;
 background:white;
 }
 
-.hero img{
-width:180px;
-height:180px;
-border-radius:50%;
-object-fit:cover;
-border:5px solid #007BFF;
+.profile-img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    object-fit:cover;
+    border:5px solid #00bcd4;
 }
 
 .hero h1{
