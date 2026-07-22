@@ -51,10 +51,11 @@ background:white;
 }
 
 .profile-img{
-    width:20px;
-    height:20px;
+    width:20 px;
+    height:20 px;
     border-radius:50%;
-    border:5px solid #00bcd4;
+    object-fit:cover;
+    border:5 px solid #00bcd4;
 }
 
 .hero h1{
